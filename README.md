@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jonathan,  I mainly only write code as a hobby or for personal projects.  👨‍💻Confirmed skid circa '99</div>  
+### <div align="center">I mainly only write code as a hobby or for personal projects.  👨‍💻Confirmed skid circa '99</div>  
   
 
 - 🔭 I’m an experienced field tech that does not try to impress you by spitting out by the book definitions to every question.  
